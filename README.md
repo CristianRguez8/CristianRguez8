@@ -1,0 +1,26 @@
+- Hola, Soy Cristian y podéis encontrarme en casi todos lados como **@CristianRguez8**
+- Personalmente estoy interesado en el anime, grupos de idols japoneses y los videojuegos
+---
+- Laboralmente me gusta la programación y el testing
+- Mi lenguaje de programación favorito diría que es PHP aunque también tengo algo de conocimiento en Java, JavaScript, HTML5 y CSS3
+- Todo lo que sé sobre programación lo he ido aprendiendo por mi cuenta de leer documentación y algún que otro curso de internet, aunque lo que más me ha aportado ha sido a base de practicar y darme de cabezazos con el código
+---
+- Actualmente trabajo como QA Lead en el departamento de Quality assurance de una multinacional (subcontrata de otra multinacional)
+- Por ello tengo muy poco tiempo libre, pero si algo puede ser divertido o acercarme a mi sueño me apunto encantado
+---
+- Puedes encontrarme en las redes sociales buscando mi nick (creo que en mi perfil están los links, de hecho)
+- o en mi email CristianRguez@gmail.com
+---
+**ENGLISH VERSION** (sorry for it if it's no good)
+- Hi, I'm Cristian, and you can find me almost everywhere as **@CristianRguez8**
+- Personally, I'm interested in anime, Japanese idol groups, and video games
+---
+- Professionally, I enjoy programming and testing
+- I think my favorite programming language is PHP, but I also have knowledge of Java, Javascript, HTML5, and CSS3
+- Everything I know about programming was self-learned through reading documentation and taking some online courses. However, what has contributed the most to my learning has been practicing and banging my head against the code
+---
+- Actually I'm working as QA Lead in the Quality Assurance department in a multinational company (subcontract to another multinational)
+- Due to this, I don't have much free time, but I'm always excited about anything that can be fun or help me get closer to my dreams.
+---
+- You can find me on social media using my username (I believe it's also on my Git profile),
+- or you can reach me via email at CristianRguez@gmail.com
