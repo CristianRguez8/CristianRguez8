@@ -1,3 +1,4 @@
+**VERSIÓN CASTELLANO**
 - Hola, Soy Cristian y podéis encontrarme en casi todos lados como **@CristianRguez8**
 - Personalmente estoy interesado en el anime, grupos de idols japoneses y los videojuegos
 ---
